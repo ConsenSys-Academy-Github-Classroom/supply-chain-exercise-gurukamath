@@ -1,2 +1,7 @@
 build
 node_modules
+supplychainexercisechecklist-210816-104857.txt
+.gitignore
+test/dummy.test.js
+others
+contracts/DummyContract.sol

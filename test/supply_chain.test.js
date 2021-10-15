@@ -114,6 +114,7 @@ contract("SupplyChain", function (accounts) {
           isDefined(subjectStruct)("state"), 
           "Struct Item should have a `state` member"
         );
+        // console.log(subjectStruct);
         assert(
           isType(subjectStruct)("state")("State"), 
           "`state` should be of type `State`"
